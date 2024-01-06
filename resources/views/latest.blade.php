@@ -8,7 +8,6 @@
 
 <body>
   <div class="main-container">
-    <header class="header-latest">
       <div class="divider"></div>
       <h2 class="title">our latest Projects</h2>
       <div class="divider-2"></div>

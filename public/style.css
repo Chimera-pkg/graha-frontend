@@ -12,20 +12,16 @@ header {
   background-image: url("assets/vektor.png");
   background-size: cover;
   background-color: #15548D;
-
 }
 
 header .hero {
   float: right;
   display: block;
-  
 }
 
 .hero-child {
-  
   float: right;
 }
-
 
 body {
   background-color: var(--body-color);
@@ -90,13 +86,11 @@ section {
   font-family: var(--heading-font);
   color: #fff;
   font-weight: 500;
-  
 }
 
 .menu-wrapper .menu .menu-link.active {
   font-weight: 700;
   color: #fff;
-
 }
 
 .menu-wrapper .btn-member {
@@ -108,14 +102,14 @@ section {
   border-radius: 10px;
   position: relative;
   right: -50%;
-
 }
 
-.menu-wrapper .btn-img{
+.menu-wrapper .btn-img {
   position: relative;
   left: -5%;
   bottom: -15%;
 }
+
 /* Home Start */
 .home {
   margin-top: 110px;
@@ -133,16 +127,13 @@ section {
   font-size: 38px;
   font-family: var(--heading-font);
   font-weight: 600;
-
   color: #fff;
-
 }
 
 .home-wrapper .subheading {
   font-size: 22px;
   font-weight: 300;
   color: #fff;
-
   max-width: 500px;
   margin: 25px 0;
 }
@@ -203,11 +194,6 @@ section {
   margin-top: 30px;
 }
 
-
-
-
-
-
 .form-date input::-webkit-inner-spin-button,
 .form-date input::-webkit-calendar-picker-indicator {
   background: transparent;
@@ -264,7 +250,6 @@ section {
 .service .service-wrapper {
   margin: auto;
   background-image: url("assets/vektordua.png");
-  
 }
 
 .service-wrapper .row1 {
@@ -307,6 +292,7 @@ section {
   text-align: center;
   padding: 30px;
 }
+
 .row2 .box-service-1 {
   position: relative;
   max-width: 300px;
@@ -724,17 +710,17 @@ section {
   font-weight: 700;
 }
 
-.logo-footer-lg 
-{
+.logo-footer-lg {
   max-width: 50%;
   margin-left: 1200px;
 }
-.line-footer
-{
+
+.line-footer {
   margin-top: 50px;
   position: absolute;
   left: 10%;
 }
+
 .logo-footer span {
   font-size: 25px;
   color: var(--second-color);
@@ -775,6 +761,7 @@ section {
   font-size: 18px;
   color: #fff;
 }
+
 .col-1-footer li a, .col-3-footer li a, .col-4-footer li a {
   font-size: 18px;
   color: #fff;
@@ -784,6 +771,7 @@ section {
   margin-top: 100px;
   margin-left: 200px;
 }
+
 .col-5-footer p {
   margin-top: 30px;
   font-size: 18px;
@@ -795,6 +783,7 @@ section {
   background-color: #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.103);
 }
+
 .wrapper-footer {
   display: flex;
   align-items: center;
@@ -823,17 +812,17 @@ section {
   display: flex;
   float: right;
 }
-.frame-footer .frame-text {
-line-height: 30px;
 
+.frame-footer .frame-text {
+  line-height: 30px;
 }
+
 .form-input .btn-footer {
   background-color: var(--second-color);
   color: #fff;
   padding: 10px 25px;
   border-radius: 50px;
 }
-
 
 /*  */
 @media screen and (max-width: 1080px) {
@@ -846,7 +835,6 @@ line-height: 30px;
   .menu-wrapper .menu .menu-link {
     font-size: 1rem;
     color: #fff;
-
   }
   .menu-wrapper .btn-member {
     padding: 20px 25px;
@@ -993,5 +981,6 @@ line-height: 30px;
     gap: 30px;
   }
 }
+
 
 /*# sourceMappingURL=style.css.map */
