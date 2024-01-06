@@ -710,11 +710,13 @@ section {
   font-weight: 700;
 }
 
-.logo-footer-lg {
-  max-width: 50%;
+.logo-footer-lg img {
+ 
   margin-left: 1200px;
+  
 }
 
+puicture
 .line-footer {
   margin-top: 50px;
   position: absolute;
