@@ -6,7 +6,7 @@
         <div class="rectangle-31">
           <div class="frame-32">
             <div class="rectangle-33"></div>
-            <span class="our-testimonials">our testimonials</span>
+            <span class="our-testimonials">OUR TESTIMONIAL</span>
           </div>
           <div class="frame-34">
             <div class="image-35"></div>

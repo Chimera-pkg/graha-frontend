@@ -7,7 +7,7 @@
   }
   .rectangle-31 {
     position: absolute;
-    width: 1400px;
+    width: 1920px;
     height: 690px;
     top: 0;
     left: 0;
@@ -65,7 +65,7 @@
     position: relative;
     width: 97.857px;
     height: 95px;
-    background: url(./assets/images/7c51c1e0-9dc9-4379-a606-71e7bbaf88ff.png)
+    background: url(./assets/brand.png)
       no-repeat center;
     background-size: cover;
     z-index: 99;
@@ -123,7 +123,7 @@
     width: 160.114px;
     height: 78px;
     top: 132px;
-    left: 741.527px;
+    left: 920px;
     padding: 8.889px 0 8.889px 0;
     background: #29679f;
     z-index: 107;
@@ -203,7 +203,7 @@
     height: 44px;
     top: 238.443px;
     left: 176.123px;
-    background: url(./assets/images/3d6b844f3d4ef8dd360382f603abbec676f35874.png)
+    background: url(./assets/petik.png)
       no-repeat center;
     background-size: cover;
     z-index: 105;
@@ -213,8 +213,8 @@
     width: 580.415px;
     height: 571.714px;
     top: 59px;
-    left: 821.584px;
-    background: url(./assets/images/e39f193a41ee9b0d83e413ea66a75e32e30d8155.png)
+    left: 1000px;
+    background: url(./assets/people.png)
       no-repeat center;
     background-size: cover;
     z-index: 106;
